@@ -1,1 +1,1 @@
-# https://vlad0710.github.io/click-game/ - try it
+# https://vlad0710.github.io/click-game/ 
